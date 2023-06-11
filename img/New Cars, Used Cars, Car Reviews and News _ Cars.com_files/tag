@@ -1,0 +1,7 @@
+BrightTag.site('4IGCP5L',function(s){
+s.dbe('pagecounter', '\x278\x27');
+s.store([{name:'btpdb.4IGCP5L.cGFnZWNvdW50ZXI',value:'OA'}]);
+s.domready(function(){
+s.tag('\x3cscript\x3e\n    (function () {\n        var href \x3d \x27https://cars.qualtrics.com/jfe/form/SV_1TvmLTUYdGIugmx\x27;\n        var signalLinkEl \x3d document.createElement(\x27a\x27);\n        signalLinkEl.setAttribute(\x27href\x27, href);\n        signalLinkEl.setAttribute(\x27target\x27, \x27_blank\x27);\n        signalLinkEl.setAttribute(\x27class\x27, \x27navbar-item-link\x27);\n        signalLinkEl.setAttribute(\x27name\x27, \x27\x26lid\x3dsignal-feedback\x27);\n        signalLinkEl.setAttribute(\x27onclick\x27, \x27s_objectID\x3d\x22[+] Feedback_1\x22;return this.s_oc?this.s_oc(e):true\x27);\n        signalLinkEl.innerHTML \x3d \x27[+] Feedback\x27;\n        window.document.getElementById(\x27signal-link-container-footer\x27).appendChild(signalLinkEl);\n    })();\n\x3c/script\x3e',{tagId:5215800});
+});
+});
